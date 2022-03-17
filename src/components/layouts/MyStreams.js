@@ -58,7 +58,7 @@ const MyStreams = () => {
 		return (
 			<TableItem
 				status={getStatus(stream)}
-				earned={stream.yeildEarned}
+				earned={stream.yieldEarned}
 				token="SOL"
 				receiver={stream.receiver}
 				amount={stream.total_amount}
@@ -71,7 +71,7 @@ const MyStreams = () => {
 					withdrawn={stream.lamports_withdrawn}
 					receiver={stream.receiver}
 					streamed={getStatus(stream)}
-					earned={stream.yeildEarned}
+					earned={stream.yieldEarned}
 					streamID={stream.pda_account}
 				/>
 			</TableItem>

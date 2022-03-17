@@ -13,28 +13,28 @@ body.dark-mode .ant-result-content {
 }
 
 body.dark-mode .ant-form-item-label label {
-    color: #537895;
+    color: #2b99ff;
 }
 
 body.dark-mode input {
     background: #09203f3f;
-    color: #537895;
+    color: #2b99ff;
     opacity: unset;
 }
 
 body.dark-mode .ant-select>.ant-select-selector {
     background: #09203f3f;
-    color: #537895;
+    color: #2b99ff;
 }
 
 body.dark-mode .ant-picker-range {
     background: #09203f3f;
-    color: #537895;
+    color: #2b99ff;
 }
 
 body.dark-mode .ant-input[disabled] {
     background: #09203f3f;
-    color: #537895;
+    color: #2b99ff;
     opacity: unset;
 }
 
@@ -42,7 +42,7 @@ body.dark-mode .ant-input[disabled] {
     font-weight: 600;
     font-size: 54px;
     margin-left: 20px;
-    background: -webkit-linear-gradient(#7b97ad, #537895, #09203f3f);
+    background: -webkit-linear-gradient(#7b97ad, #2b99ff, #09203f3f);
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }

@@ -61,7 +61,7 @@ const Stream = () => {
 		return (
 			<TableItem
 				status={getStatus(stream)}
-				earned={stream.yeildEarned}
+				earned={stream.yieldEarned}
 				token="SOL"
 				receiver={stream.receiver}
 				amount={stream.total_amount}
@@ -126,7 +126,7 @@ const Stream = () => {
 								className="refresh-btn-view"
 								type="text"
 								style={{
-									borderRadius: "10px",
+									borderRadius: "8px",
 								}}
 								onClick={() => {
 									if (wallet.publicKey != null) {

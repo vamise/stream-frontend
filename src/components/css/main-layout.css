@@ -31,7 +31,7 @@ body.dark-mode .ant-menu-item-active {
 }
 
 body.dark-mode .anticon {
-    color: #537895;
+    color: #2b99ff;
 }
 
 body.dark-mode .anticon:hover {
@@ -39,7 +39,7 @@ body.dark-mode .anticon:hover {
 }
 
 body.dark-mode a {
-    color: #537895;
+    color: #2b99ff;
 }
 
 body.dark-mode a:hover {
@@ -76,7 +76,7 @@ body.dark-mode {
 }
 
 .trigger:hover {
-    color: #537895;
+    color: #2b99ff;
 }
 
 .logo {
@@ -107,7 +107,7 @@ body.dark-mode {
     font-weight: 600;
     font-size: 48px;
     margin-left: 20px;
-    background: -webkit-linear-gradient(#7b97ad, #537895, #09203f3f);
+    background: -webkit-linear-gradient(#7b97ad, #2b99ff, #09203f3f);
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -131,7 +131,7 @@ body.dark-mode {
 :root {
     --text-color: white;
     --shadow-color: hsla(210, 40%, 52%, 0.4);
-    --btn-color: #537895;
+    --btn-color: #2b99ff;
     --bg-color: #141218;
 }
 
